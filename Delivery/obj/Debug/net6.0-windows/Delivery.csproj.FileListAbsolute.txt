@@ -1,0 +1,16 @@
+C:\Users\boris\OneDrive\Desktop\Delivery\bin\Debug\net6.0-windows\Delivery.exe
+C:\Users\boris\OneDrive\Desktop\Delivery\bin\Debug\net6.0-windows\Delivery.deps.json
+C:\Users\boris\OneDrive\Desktop\Delivery\bin\Debug\net6.0-windows\Delivery.runtimeconfig.json
+C:\Users\boris\OneDrive\Desktop\Delivery\bin\Debug\net6.0-windows\Delivery.dll
+C:\Users\boris\OneDrive\Desktop\Delivery\bin\Debug\net6.0-windows\Delivery.pdb
+C:\Users\boris\OneDrive\Desktop\Delivery\obj\Debug\net6.0-windows\Delivery.Form1.resources
+C:\Users\boris\OneDrive\Desktop\Delivery\obj\Debug\net6.0-windows\Delivery.csproj.GenerateResource.cache
+C:\Users\boris\OneDrive\Desktop\Delivery\obj\Debug\net6.0-windows\Delivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boris\OneDrive\Desktop\Delivery\obj\Debug\net6.0-windows\Delivery.AssemblyInfoInputs.cache
+C:\Users\boris\OneDrive\Desktop\Delivery\obj\Debug\net6.0-windows\Delivery.AssemblyInfo.cs
+C:\Users\boris\OneDrive\Desktop\Delivery\obj\Debug\net6.0-windows\Delivery.csproj.CoreCompileInputs.cache
+C:\Users\boris\OneDrive\Desktop\Delivery\obj\Debug\net6.0-windows\Delivery.dll
+C:\Users\boris\OneDrive\Desktop\Delivery\obj\Debug\net6.0-windows\refint\Delivery.dll
+C:\Users\boris\OneDrive\Desktop\Delivery\obj\Debug\net6.0-windows\Delivery.pdb
+C:\Users\boris\OneDrive\Desktop\Delivery\obj\Debug\net6.0-windows\Delivery.genruntimeconfig.cache
+C:\Users\boris\OneDrive\Desktop\Delivery\obj\Debug\net6.0-windows\ref\Delivery.dll
